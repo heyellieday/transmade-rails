@@ -12,9 +12,9 @@ default: &default
 development:
   adapter: postgresql
   encoding: unicode
-  database: postgres
+  database: transmade
   pool: 5
-  username: postgres
+  username: transmade
   password:
 
 # Warning: The database defined as "test" will be erased and
